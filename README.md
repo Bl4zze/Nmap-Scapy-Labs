@@ -1,2 +1,2 @@
-# Nmap-Scapy-Labs
-These are the practical labs that i produced for nmap and scapy in my ethical hacking course
+# Nmap Lab
+This repository contains my nmap lab documentation and a folder containing the screenshots.
